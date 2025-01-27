@@ -15,4 +15,5 @@ F13 & [::Send "^["
 F13 & u::Send "^u"
 F13 & e::Send "^e"
 F13 & y::Send "^y"
+F13 & w::Send "^w"
 #HotIf
