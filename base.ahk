@@ -8,7 +8,7 @@ F13 & e::Send "{End}"
 F13 & a::Send "{Home}"
 F13 & Tab::Send "^{Tab}"
 SC073::Send "_"
-#HotIf WinActive("ahk_exe wezterm-gui.exe") or WinActive("ahk_exe WindowsTerminal.exe")
+#HotIf WinActive("ahk_exe wezterm-gui.exe") or WinActive("ahk_exe WindowsTerminal.exe") or WinActive("ahk_exe vscode.exe")
 F13 & c::Send "^c"
 F13 & n::Send "^n"
 F13 & [::Send "^["
