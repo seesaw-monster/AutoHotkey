@@ -6,6 +6,12 @@
 ## Activate
 double click base.ahk in Explorer app
 
+or 
+
+```
+.\base.ahk
+```
+
 ## Startup
 Add Startup folder
 ```
